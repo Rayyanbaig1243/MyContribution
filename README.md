@@ -1,9 +1,6 @@
 # MyContribution
-
-Fork this repo, It will crawl your all merged pull requests and show on `README.md`.
-
+Fork tHis repo, It will crawl your all merged pull requests and show on `README.md`.
 ## Basic
-
 ### Dependencies
 
  - Python 3.5+
@@ -138,3 +135,40 @@ Use `--help` to see full options and usage.
   * [fix "::read() has not been declared" error](https://github.com/onexsoft/OneValue/pull/1)
 * [**tencent-wechat/libco**(★371)](https://github.com/tencent-wechat/libco) - [fix warning](https://github.com/tencent-wechat/libco/pull/1)
 * [**tinyclub/linux-doc**(★109)](https://github.com/tinyclub/linux-doc) - [Update PLAN.md](https://github.com/tinyclub/linux-doc/pull/5)
+
+## HOW TO CONTRIBUTE
+
+Contributing to a project or community can take many forms, depending on the context. Here are some general ways to contribute:
+
+Open Source Projects:
+
+Code Contributions: Fix bugs, add new features, or improve documentation.
+Testing: Help by running tests, finding bugs, and providing feedback.
+Documentation: Improve project documentation, tutorials, or user guides.
+Report Issues: File issues on GitHub or similar platforms if you find bugs or have feature requests.
+Communities and Forums:
+
+Answer Questions: Help others by answering questions on platforms like Stack Overflow or Reddit.
+Share Knowledge: Write blog posts, create tutorials, or make videos about topics you’re knowledgeable in.
+Local Groups:
+
+Participate in Meetups: Attend or organize local tech meetups, hackathons, or workshops.
+Mentorship: Offer mentorship to newcomers or those looking to improve their skills.
+Educational Platforms:
+
+Course Contributions: Create and share courses or materials on platforms like Udemy, Coursera, or YouTube.
+Peer Support: Engage in peer learning groups where you can help others and get help in return.
+Feedback and Suggestions:
+
+Provide constructive feedback on projects, software, or services you use.
+Financial Support:
+
+Donate to open-source projects or support creators on platforms like Patreon.
+Let me know if you need specific guidance on any of these areas!
+
+
+
+
+
+
+
